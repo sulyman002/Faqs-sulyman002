@@ -136,6 +136,15 @@
             white-space: wrap;
         }
 
+        .answer {
+        display: none;
+        font-weight: 400;
+        margin-top: 10px;
+        font-size: 12px;
+        width: 250px;
+    }
+
+
 
     }
 

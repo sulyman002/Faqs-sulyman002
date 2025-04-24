@@ -35,7 +35,6 @@
         background-image: var(--bg-img-dekstop);
         background-repeat: no-repeat;
         background-size: cover;
-        border-bottom: 2px solid red;
     }
 
     main {
